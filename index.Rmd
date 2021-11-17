@@ -126,7 +126,6 @@ knitr::include_graphics("images/sdrclocation.png")
 
 - Established in 1978
 - Non-Sectarian
-- Sonia Marcus is executive director
 - Board of Directors Chairman: David Heckel
   - Pfieffer University
 - Executive Director: Sonia Marcus
